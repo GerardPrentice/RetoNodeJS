@@ -1,0 +1,14 @@
+{
+  "name": "aws-node-restapi-mongodb",
+  "version": "1.0.0",
+  "description": "Serverless REST API",
+  "main": "handler.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bluebird": "^3.5.0",
+    "mongoose": "^5.12.7",
+    "validator": "^7.0.0"
+  },
+  "author": "Gerard Prentice <prentice104@gmail.com>",
+  "license": "MIT"
+}
