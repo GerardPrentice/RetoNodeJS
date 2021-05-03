@@ -1,13 +1,13 @@
-# Serverless MongoDB Rest API with Mongoose and Bluebird Promises
+# Reto Api NODEJS con Serverless, conexion a MONGODB
 
-Using Mongoose ODM and Bluebird for Promises.
-
-## Setup
+## Inicio
 
 ```
 npm install
 serverless deploy
 ```
+
+## Endpoints en caso se despliegue
 
 *Create*
 
